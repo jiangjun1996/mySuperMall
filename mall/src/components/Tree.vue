@@ -115,12 +115,6 @@ export default {
     };
   },
   methods: {
-    // handleNodeClick(data, node, self) {
-    //   console.log("handleNodeClick", data, node, self);
-    // },
-    // handleCurrentChange(data, node) {
-    //   console.log("handleCurrentChange", data, node);
-    // },
     handleCheck(a, b) {
       console.log("handleCheck", a, b);
     },
